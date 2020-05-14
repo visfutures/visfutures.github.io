@@ -14,13 +14,17 @@ The Vis Futures workshop will be part of IEEE VIS 2020 (October 26-30) in Salt L
 <!-- # Abstract -->
 
 
-<!-- # Submissions -->
-
-
-<!-- # Gallery -->
+# Call for Participation
 
 
 
+# Timeline
+We accept submissions at any time. To encourage multiple submissions, provide feedback to authors rapidly and to constantly grow the gallery of visualizations from the futures on this website we will review submissions at five different times. The five deadlines for submitting your work are:
+- June 30
+- July 15
+- July 31
+- August 15
+- August 31
 
 # Organizers
 [Charles Perin](http://charlesperin.net/), University of Victoria <br>
