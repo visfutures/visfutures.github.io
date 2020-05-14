@@ -1,7 +1,10 @@
-## Visualization Futures Workshop at [IEEE VIS 2020](https://ieeevis.org)
+# Visualization Futures Workshop at [IEEE VIS 2020](https://ieeevis.org)
 
-The Vis Futures workshop will be part of IEEE VIS 2020 in Salt Lake City. 
-Check back soon for more details!
+The goal of this workshop is to initiate the creation of a set of “Vis Futures” method cards – ideation prompts that can help designers envison and explore the visualizations of the future. The workshop will examine how a variety of design ideation processes (including design fiction, speculative design, critical design, and more) can propel the visualization community to consider future applications of visualization and their impact. We intend to be inclusive of all design practices – incorporating a diverse range of playful and creative methods to envision future visualizations. We will also focus on identifying new ideation methodologies tailored specifically for visualization design.  
+
+The Vis Futures workshop will be part of IEEE VIS 2020 (October 26-30) in Salt Lake City. 
+
+**Check back soon for more details!**
 
 <!-- # Abstract -->
 
