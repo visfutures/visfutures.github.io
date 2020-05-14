@@ -31,12 +31,13 @@ Submit your Visualization from the Future using this [Submission Form](https://f
 ## Design Futuring Methods for Visualization
 These submissions are in the form of a pictorial describing a (speculative) method for designing for the future. Such methods could be similar to existing design prompts like [The Thing From the Future](https://situationlab.org/tag/the-thing-from-the-future/) (a design futuring game not tailored to visualization) or the [Five Design Sheet methodology](http://fds.design/) (which is tailored to visualization but not a design futuring method).
 
-Design Futuring Methods for Visualization must be formatted using the Pictorials format 
+Design Futuring Methods for Visualization must be formatted using the Pictorials format based on the VISAP Pictorials format. [InDesign](./assets/templates/pictorials/VisFutures_pictorial_InDesign.zip) and [Word](./assets/templates/pictorials/VisFutures_pictorial_Word.zip) templates are available along with the necessary fonts and it is mandatory to use this format. Pictorials for Design Futuring Methods for Visualization should typically be 2-4 pages long (although we do not enforce any strict page limit), and making use of any of the template pages, or combinations thereof. 
+Pictorials heavily rely on visual description. See [VISAP Pictorials](https://visap.net/submission.html#pictorials) for inspiration.
 
 Submit your Design Futuring Method for Visualization using this [Submission Form](https://forms.gle/ZkoXopUrw6tyCDhy5). You will be asked to provide for each method you submit:
 - A title
-- A brief (<500 character) summary
-- A PDF submission file following the format described above
+- A brief (<500 character) summary (i.e. the abstract for your submission)
+- A PDF submission file following the Pictorials format as described above
 - Information about how many people are needed to apply your Design Futuring Method for Visualization, what materials are needed, are there any type(s) of spaces needed and how long it takes to complete
 
 # Timeline
