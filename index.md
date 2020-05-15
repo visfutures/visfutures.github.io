@@ -55,6 +55,6 @@ Katherine Currier, University of Calgary <br>
 Lora Oehlberg, University of Calgary <br>
 [Sheelagh Carpendale](http://sheelaghcarpendale.ca/), Simon Fraser University
 
-# Visualizations from the Future
+# Visualizations from the Future Gallery
 A growing list of speculative designs for tomorrow's visualizations, inspired by Wired Magazine's classic [Artifacts from the Future](https://digitalcortex.net/the-future/wired-found-the-ultimate-collection). 
 <!-- Submit yours above. -->
