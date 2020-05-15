@@ -21,7 +21,7 @@ We invite you to submit two types of work: **Visualizations from the Future** an
 ## Visualizations from the Future
 These submissions are design fictions in the form of sketches, drawings, short videos, websites, pictures, or physical artifacts that depict specific examples of visualizations from the future, accompanied with a short text description. You can submit as many visualizations from the future as you wish.
 
-Submit your Visualization from the Future using this [Submission Form](https://forms.gle/ZkoXopUrw6tyCDhy5). You will be asked to provide for each Visualization from the Future you submit:
+Submit your Visualization from the Future using this [Submission Form](https://forms.gle/mfE4q3c7HqAyJd8B6). You will be asked to provide for each Visualization from the Future you submit:
 - A title
 - A brief (<500 character) description
 - A primary image
@@ -34,7 +34,7 @@ These submissions are in the form of a pictorial describing a (speculative) meth
 Design Futuring Methods for Visualization must be formatted using the Pictorials format based on the VISAP Pictorials format. [InDesign](./assets/templates/pictorials/VisFutures_pictorial_InDesign.zip) and [Word](./assets/templates/pictorials/VisFutures_pictorial_Word.zip) templates are available along with the necessary fonts and it is mandatory to use this format. Pictorials for Design Futuring Methods for Visualization should typically be 2-4 pages long (although we do not enforce any strict page limit), and making use of any of the template pages, or combinations thereof. 
 Pictorials heavily rely on visual description. See [VISAP Pictorials](https://visap.net/submission.html#pictorials) for inspiration.
 
-Submit your Design Futuring Method for Visualization using this [Submission Form](https://forms.gle/ZkoXopUrw6tyCDhy5). You will be asked to provide for each method you submit:
+Submit your Design Futuring Method for Visualization using this [Submission Form](https://forms.gle/mfE4q3c7HqAyJd8B6). You will be asked to provide for each method you submit:
 - A title
 - A brief (<500 character) summary (i.e. the abstract for your submission)
 - A PDF submission file following the Pictorials format as described above
