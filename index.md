@@ -3,7 +3,7 @@ layout: gallery
 title: Visualization Futures Workshop at IEEE VIS 2020
 ---
 
-☝️🚀 **Submit your own visualizations from the future [below!](#call-for-participation)**
+☝️🚀 <small>Submitted *"Visualizations from the Future"*. Click to see larger versions, or **submit your own [below!](#call-for-participation)**</small>
 
 # Visualization Futures Workshop at [IEEE VIS 2020](https://ieeevis.org)
 
@@ -27,7 +27,7 @@ Submit your Visualizations from the Future using this [Submission Form](https://
 - A brief (<500 character) description
 - A primary image
 - [optional] up to 10 additional images
-- [optional] a link to dditional material such as a website or a youtube video
+- [optional] a link to additional material such as a website or a youtube video
 
 Submissions should be your own work, but can include designs created for previous events, courses, or other design futuring venues.
 **You can submit as many visualizations from the future as you wish** and we encourage you to submit early and often!
@@ -46,7 +46,8 @@ Submit your Design Futuring Method for Visualization using this [Submission Form
 - Information about how many people are needed to apply your Design Futuring Method for Visualization, what materials are needed, are there any type(s) of spaces needed and how long it takes to complete
 
 # Timeline
-We accept submissions at any time. To encourage multiple submissions, provide feedback to authors rapidly and to constantly grow the gallery of visualizations from the futures on this website we will review submissions at five different times. The five deadlines for submitting your work are:
+We accept submissions at any time. To encourage multiple submissions, provide feedback to authors rapidl, and continuously grow the gallery of visualizations from the futures on this website we will review submissions at five different times. 
+The five deadlines for submitting your work are:
 - June 30
 - July 15
 - July 31
