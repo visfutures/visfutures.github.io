@@ -29,7 +29,8 @@ Submit your Visualizations from the Future using this [Submission Form](https://
 - [optional] up to 10 additional images
 - [optional] a link to dditional material such as a website or a youtube video
 
-**You can submit as many visualizations from the future as you wish.**
+Submissions should be your own work, but can include designs created for previous events, courses, or other design futuring venues.
+**You can submit as many visualizations from the future as you wish** and we encourage you to submit early and often!
 
 ## Design Futuring Methods for Visualization
 These submissions are in the form of a pictorial describing a (speculative) method for designing for the future. Such methods could be similar to existing design prompts like [The Thing From the Future](https://situationlab.org/tag/the-thing-from-the-future/) (a design futuring game not tailored to visualization) or the [Five Design Sheet methodology](http://fds.design/) (which is tailored to visualization but not a design futuring method).
