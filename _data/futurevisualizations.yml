@@ -1,16 +1,19 @@
 - image: 2018_VIS_workshop_embeddedPersonalPhysicalizations-w1280.jpg
+  thumb: 2018_VIS_workshop_embeddedPersonalPhysicalizations-thumb200.jpg
   size: 1280x737
   caption: Parents looking at biometrics and statistics of their newborn baby on an ambient visualization in their living room. <a href="https://hal.archives-ouvertes.fr/hal-01910351/document">original article</a>)
   authors: Mathieu Le Goc, Charles Perin, Sean Follmer
   submitted: 13 May 2020
 
 - image: DominikusBaur-SilentAR.jpg
+  thumb: DominikusBaur-SilentAR-thumb200.jpg
   size: 1600x556
   caption: Immersive augmented reality overlays for transit and weather. (<a href="https://do.minik.us/blog/can-augmented-reality-solve-mobile-visualization">original article</a>)
   authors: Dominikus Baur
   submitted: 13 May 2020
 
 - image: Cetonia-h1280.jpg
+  thumb: Cetonia-thumb200.jpg
   size: 1197x1280
   caption: A swarm of miniature drones visualizes crop health in-situ in a grain field. (<a href="http://www.wjwillett.net/content/cetonia/">original article</a>)
   authors: Wesley Willett

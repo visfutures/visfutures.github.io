@@ -12,3 +12,17 @@ h1{
     font-family: Megrim, Futura, sans-serif;
     font-size: 30pt;
 }
+
+blockquote{
+    background-color: aliceblue;
+    padding: 10pt 15pt 1pt;
+    margin: 10pt 0pt;
+}
+
+figure{
+    display: inline-block;
+    width:160px;
+    margin-block-start: 0em;
+    margin-inline-end: auto;
+    margin-inline-start: auto;
+}

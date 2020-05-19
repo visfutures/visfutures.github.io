@@ -40,6 +40,21 @@
       </header>
       <section>
 
+        <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+          {% for future in site.data.futurevisualizations %}
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="assets/img/{{ future.image }}" itemprop="contentUrl" data-size="{{ future.size }}">
+                <img src="assets/img/{{ future.thumb }}" itemprop="thumbnail" alt="Image description" />
+            </a>
+            <figcaption itemprop="caption description" style="display:none;">
+              {{ future.caption }}
+              Created by: {{ future.authors }}.
+              <em>Submitted: {{ future.submitted }}</em>
+            </figcaption>
+          </figure>
+          {% endfor %}
+        </div>
+
       {{ content }}
 
       </section>
@@ -100,20 +115,6 @@
           </div>
       </div>
 
-      <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-        {% for future in site.data.futurevisualizations %}
-        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-          <a href="assets/img/{{ future.image }}" itemprop="contentUrl" data-size="{{ future.size }}">
-              <img src="assets/img/{{ future.image }}" itemprop="thumbnail" alt="Image description" />
-          </a>
-          <figcaption itemprop="caption description" style="display:none;">
-            {{ future.caption }}
-            Created by: {{ future.authors }}.
-            <em>Submitted: {{ future.submitted }}</em>
-          </figcaption>
-        </figure>
-        {% endfor %}
-      </div>
 
       <script type="text/javascript">
         var initPhotoSwipeFromDOM = function(gallerySelector) {
