@@ -48,8 +48,6 @@ Submit your Design Futuring Method for Visualization using this [Submission Form
 # Timeline
 We accept submissions at any time. To encourage multiple submissions, provide feedback to authors rapidl, and continuously grow the gallery of visualizations from the futures on this website we will review submissions at five different times. 
 The five deadlines for submitting your work are:
-- June 30
-- July 15
 - July 31
 - August 15
 - August 31
