@@ -7,11 +7,20 @@ title: Visualization Futures Workshop at IEEE VIS 2020
 
 # Visualization Futures Workshop at [IEEE VIS 2020](https://ieeevis.org)
 
-The goal of this workshop is to initiate the creation of a set of “Vis Futures” method cards – ideation prompts that can help designers envison and explore the visualizations of the future. The workshop will examine how a variety of design ideation processes (including design fiction, speculative design, critical design, and more) can propel the visualization community to consider future applications of visualization and their impact. We intend to be inclusive of all design practices – incorporating a diverse range of playful and creative methods to envision future visualizations. We will also focus on identifying new ideation methodologies tailored specifically for visualization design.  
+The goal of this workshop is to _encourage and stimulate the use of design futuring in visualization_ for envisioning the next generation of vis tools and applications. Our objectives are to i) generate examples of visualizations from the future, and ii) generate methods for designing such visualizations, that other people can include in their teaching and/or practice of visualization.
 
 The Vis Futures workshop will be part of IEEE VIS 2020 (October 26-30) and will be held online. 
 
+# What to Expect
+The workshop will examine how a variety of design ideation processes (including design fiction, speculative design, critical design, and more) can propel the visualization community to consider future applications of visualization and their impact. We intend to be inclusive of all design practices – incorporating a diverse range of playful and creative methods to envision future visualizations. We will also focus on identifying new ideation methodologies tailored specifically for visualization design. One possible tangible outcome will be to start the creation of a set of “Vis Futures” method cards – ideation prompts that can help designers envison and explore the visualizations of the future.
+
+We are still thinking through the details of the workshop now that we know it will be held online, but we we anticipate the workshop will consists of the two following parts:
+1. we will briefly provide an overview of the submissions and give authors a chance to describe theirs,
+2. we will spend the bulk of the workshop on interactive design futuring activities and on crafting and clustering Vis Futures Method cards
+
 # Call for Participation
+
+We encourage students, practitioners, researchers and hobbyists interested in design futuring methods and visualization to participate. We are looking for a broad participation from many disciplines and practices including design, arts, sciences, digital humanities, cartography and engineering to name a few.
 
 > We invite you to submit two types of work: 
 > * **[Visualizations from the Future](#visualizations-from-the-future)** 
