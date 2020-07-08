@@ -14,9 +14,9 @@ The Vis Futures workshop will be part of IEEE VIS 2020 (October 26-30) and will 
 # What to Expect
 The workshop will examine how a variety of design ideation processes (including design fiction, speculative design, critical design, and more) can propel the visualization community to consider future applications of visualization and their impact. We intend to be inclusive of all design practices – incorporating a diverse range of playful and creative methods to envision future visualizations. We will also focus on identifying new ideation methodologies tailored specifically for visualization design. One possible tangible outcome will be to start the creation of a set of “Vis Futures” method cards – ideation prompts that can help designers envison and explore the visualizations of the future.
 
-We are still thinking through the details of the workshop now that we know it will be held online, but we we anticipate the workshop will consists of the two following parts:
-1. we will briefly provide an overview of the submissions and give authors a chance to describe theirs,
-2. we will spend the bulk of the workshop on interactive design futuring activities and on crafting and clustering Vis Futures Method cards
+We will post more details on the exct format and length of the workshop over the summer as IEEE VIS finalizes their plans for an online conference. However the workshop will focus primarily on:
+1. Presentation sessions in which contributors exhibit and discuss their visualizations from the future and their implications for visualization research.
+2. Interactive design futuring activities and sessions devoted to curating an initial set of Vis Futures method cards.
 
 # Call for Participation
 
