@@ -10,7 +10,7 @@ title: Visualization Futures Workshop at IEEE VIS 2020
 The goal of this workshop is to _encourage and stimulate the use of design futuring in visualization_ for envisioning the next generation of vis tools and applications. Our objectives are to i) generate examples of visualizations from the future, and ii) generate methods for designing such visualizations, that other people can include in their teaching and/or practice of visualization.
 
 The Vis Futures workshop will be part of IEEE VIS 2020 (October 26-30) and will be held online. 
-The workhop will take place on Monday October 26, from 12:00PM to 3:30PM Mountain Time.
+The workshop will take place on Monday October 26, from 12:00PM to 3:30PM Mountain Time.
 
 # What to Expect
 The workshop will examine how a variety of design ideation processes (including design fiction, speculative design, critical design, and more) can propel the visualization community to consider future applications of visualization and their impact. We intend to be inclusive of all design practices – incorporating a diverse range of playful and creative methods to envision future visualizations. We will also focus on identifying new ideation methodologies tailored specifically for visualization design. One possible tangible outcome will be to start the creation of a set of “Vis Futures” method cards – ideation prompts that can help designers envison and explore the visualizations of the future.
