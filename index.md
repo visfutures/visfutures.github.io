@@ -62,6 +62,7 @@ The three deadlines for submitting your work are:
 - August 15
 - August 31
 - September 30
+- October 20
 
 # Organizers
 [Charles Perin](http://charlesperin.net/), University of Victoria <br>
